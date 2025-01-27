@@ -1,4 +1,4 @@
-class PS01 {
+class PS001 {
 
 	protected int id;
 	protected String firstName;
