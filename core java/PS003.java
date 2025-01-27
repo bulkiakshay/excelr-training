@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PS03 {
+public class PS003 {
 
     private String name;
     private int wickets;
@@ -8,7 +8,7 @@ public class PS03 {
     private int ballsBowled;
     private int runsConceded;
 
-    public PS03() {
+    public PS003() {
         this.name = "Unknown";
         this.wickets = 0;
         this.matches = 0;
@@ -16,7 +16,7 @@ public class PS03 {
         this.runsConceded = 0;
     }
 
-    public PS03(String name, int wickets, int matches, int ballsBowled, int runsConceded) {
+    public PS003(String name, int wickets, int matches, int ballsBowled, int runsConceded) {
         this.name = name;
         this.wickets = wickets;
         this.matches = matches;
