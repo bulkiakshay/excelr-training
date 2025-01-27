@@ -17,7 +17,7 @@ System.out.println("Elements of the list: ");
 	}
 	    
 
-class Demo30{
+class Demo030{
 
 	public static void main(String[] args) {
 		ArrayListCode obj = new ArrayListCode();
